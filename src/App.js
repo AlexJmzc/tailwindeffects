@@ -1,10 +1,9 @@
 import "tailwindcss/tailwind.css";
+import { Main } from "./components/main/main";
 
 function App() {
   return (
-    <div className="App">
-      
-    </div>
+    <Main />
   );
 }
 
